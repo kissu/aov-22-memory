@@ -50,4 +50,4 @@ I'm [on Twitter](https://twitter.com/kissu_io) and [on Mastodon](https://mas.to/
 
 ## Credits
 
-[Edit on StackBlitz ⚡️](yyy)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/github/kissu/aov-22-memory?file=README.md)
